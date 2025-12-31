@@ -1,5 +1,5 @@
 # Excel
-Microsoft Excel functions
+Microsoft Excel functions using [ClosedXML](https://github.com/ClosedXML/ClosedXML). Maybe change to [OpenXML SDK](https://learn.microsoft.com/en-us/office/open-xml/open-xml-sdk) because its maintained by Microsoft.
 
 ```Javascript
 function open() 
